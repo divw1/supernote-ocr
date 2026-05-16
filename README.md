@@ -1,4 +1,4 @@
-# Supernote Native OCR
+# Supernote OCR
 
 Converts handwritten Supernote PDFs to Markdown using [Qwen3-VL](https://ollama.com/library/qwen3-vl) running locally via Ollama with Apple Metal GPU acceleration. Completely private — no data leaves your machine.
 
