@@ -1,0 +1,27 @@
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Personal files — keep the folders but ignore their contents
+input/*
+output/*
+!input/.gitkeep
+!output/.gitkeep
+
+# macOS
+.DS_Store
